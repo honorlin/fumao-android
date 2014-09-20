@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+html {
+    -webkit-text-size-adjust: none; /* Never autoresize text */
+}
+
+body{
+    font-family:CustomFont, "微軟正黑體", "蘋果儷黑體", "新細明體", Arial;
+    line-height:30px;
+    padding-left:13px;
+    padding-right:15px;
+    color:#444;
+    font-size:17px;
+    background-image:url('bg.png');
+	}
+    
+body img{ max-width:270px;}    
