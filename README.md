@@ -6,6 +6,15 @@
 
 https://play.google.com/store/apps/details?id=tw.com.fumao
 
+## 資料來源
+
+文案資料取自 - 自己的服貿自己審
+
+http://review.fumao.today/
+
+協助使用者使用行動裝置進入此網站進行投票
+
+文案版權歸此網站所有
 
 ## LICENSE:
 
